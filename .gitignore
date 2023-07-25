@@ -1,1 +1,53 @@
-env
+# Compiled Python files
+*.pyc
+
+# Compiled Python files from Cython
+*.c
+*.pyo
+
+# Python cache
+__pycache__/
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Compiled files
+*.pyd
+*.so
+*.dll
+
+# C extensions
+*.pyd
+*.so
+*.dll
+
+# macOS hidden files
+.DS_Store
+
+# Visual Studio Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Python project settings
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*~
+
+# Environment variables file
+.env
+
+V_API_KEY
