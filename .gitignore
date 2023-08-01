@@ -51,3 +51,5 @@ logs/
 .env
 
 V_API_KEY
+
+Data.csv
