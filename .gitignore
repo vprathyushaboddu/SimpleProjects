@@ -52,8 +52,6 @@ logs/
 
 V_API_KEY
 
-Data.csv
-
-dialog-summary-training*
-peft-dialogue-summary-training*
 peft-dialogue-summary*
+dialogue-summary*
+Data.csv
