@@ -8,3 +8,4 @@ yt-dlp==2023.7.6
 pydub==0.25.1
 tiktoken==0.4.0
 chromadb==0.4.5
+lark==1.1.7
